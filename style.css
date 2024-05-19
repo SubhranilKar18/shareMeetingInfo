@@ -1,0 +1,33 @@
+*
+{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background: url('./img/ShareHolderMeeting2f.jpg');
+}
+.fh
+{
+    padding:20px;
+}
+
+.container
+{
+    padding: 30px;
+}
+
+.ps
+{
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color:rgb(103, 60, 5);
+}
+
+a :hover
+{
+    color: grey;
+}
